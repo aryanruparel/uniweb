@@ -11,6 +11,6 @@ import { BrowserRouter } from 'react-router-dom';
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement); // createRoot(container!) if you use TypeScript
 root.render(
-<BrowserRouter basename="/uniweb/">
+<BrowserRouter basename="/uniweb">
 <App  />
 </BrowserRouter>);
