@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uniweb/static/css/main.958a751d.css",
+    "main.js": "/uniweb/static/js/main.98fbeed8.js",
+    "index.html": "/uniweb/index.html",
+    "main.958a751d.css.map": "/uniweb/static/css/main.958a751d.css.map",
+    "main.98fbeed8.js.map": "/uniweb/static/js/main.98fbeed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958a751d.css",
+    "static/js/main.98fbeed8.js"
+  ]
+}
