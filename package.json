@@ -1,10 +1,10 @@
 {
-  "homepage": "https://aryanruparel.github.io/uniweb/",
+  "homepage": ".",
   "name": "universalweb",
  
   "version": "0.1.0",
  
-  "private": true,
+  "private": false,
  
   "dependencies": {
  

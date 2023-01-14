@@ -3,6 +3,7 @@ import Heroslider from "../components/Heroslider";
 import Info from "../components/Info";
 import Footer from "../components/Footer";
 import Typewriter from "typewriter-effect";
+import Testimonial from "../components/Testimonial";
 
 function Home (){
     return(
@@ -51,11 +52,12 @@ function Home (){
         </>
         <>
      
-        <Typewriter className="typewriter" 
+        {/* <Typewriter className="typewriter" 
       onInit={(typewriter) => {
         typewriter.typeString("Hello").pauseFor(2000).deleteAll().typeString("this ").pauseFor(2000).deleteAll().typeString("is").pauseFor(2000).deleteAll().typeString("a").pauseFor(2000).deleteAll().typeString("testimonial").pauseFor(2000).deleteAll().start();
       } }
-      />
+      /> */}
+      <Testimonial/>
         </>
         <>
             <Footer/>

@@ -19,28 +19,28 @@
 
 .navbar-logo {
     color: black;
-    font-size: 2rem;
+    font-size: 1rem;
     cursor: pointer;
 }
 
 .nav-menu {
     display: grid;
     grid-template-columns: repeat(10, auto);
-    grid-gap: 15px;
+    grid-gap: 10px;
     list-style: none;
     align-items: center;
 }
 .nav-links {
     text-decoration: none;
     color: black;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 600;
     padding: 0.7rem 1rem;
     white-space: nowrap;
 }
 
 .nav-links {
-    padding-right: 10px;
+    padding-right: 5px;
 }
 .nav-links i{
     padding-right: 1.2rem;
